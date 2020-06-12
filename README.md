@@ -138,7 +138,7 @@ N'oubliez pas que vous pouvez utiliser l'option `--help` à chacune des commande
 
 6 - créez votre répo sur github.com
 
-7 - `git remote add origin https://github.com/VOTREPSEUDO/votreRepo.git`
+7 - `git remote set-url origin https://github.com/VOTREPSEUDO/votreRepo.git`
 
 8 - `git push -u origin master` de votre commit.
 
